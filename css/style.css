@@ -1,3 +1,9 @@
 body {
     font-family: sans-serif;
 }
+
+.box {
+    background-color: aqua;
+    height: 100%;
+    border:solid black 1px;
+}
