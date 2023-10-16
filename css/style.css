@@ -27,3 +27,36 @@ div{
 section {
     margin-bottom: 1rem;
 }
+
+/* bonus */
+
+.mario{
+    min-height: 5rem;
+    border:none;
+    
+
+}
+
+.red{
+    background-color: red;
+}
+
+.black{
+    background-color: black;
+}
+
+.skin {
+    background-color: blanchedalmond;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.brown{
+    background-color: rgb(114, 63, 29);
+}
